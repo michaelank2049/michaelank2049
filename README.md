@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michael Lankford and i'm currently a student at University of Houston-Clear Lake studying computer science. I'm a senior who will be graduating Fall 2023.
+- 👋 Hi, I’m Michael Lankford and I'm a Computer Science graduate from University of Houston-Clear Lake.
 
 - 📫 How to reach me:
 -      LinkedIn: https://www.linkedin.com/in/michael-l-510681227/
